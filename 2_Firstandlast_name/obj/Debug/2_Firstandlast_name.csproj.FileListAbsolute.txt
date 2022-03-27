@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\2_Firstandlast_name\bin\Debug\Firstandlast name.exe.config
+C:\Users\pulis\source\repos\2_Firstandlast_name\bin\Debug\Firstandlast name.exe
+C:\Users\pulis\source\repos\2_Firstandlast_name\bin\Debug\Firstandlast name.pdb
+C:\Users\pulis\source\repos\2_Firstandlast_name\obj\Debug\2_Firstandlast_name.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\2_Firstandlast_name\obj\Debug\2_Firstandlast_name.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\2_Firstandlast_name\obj\Debug\2_Firstandlast_name.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\2_Firstandlast_name\obj\Debug\Firstandlast name.exe
+C:\Users\pulis\source\repos\2_Firstandlast_name\obj\Debug\Firstandlast name.pdb

@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\openfile\bin\Debug\openfile.exe.config
+C:\Users\pulis\source\repos\openfile\bin\Debug\openfile.exe
+C:\Users\pulis\source\repos\openfile\bin\Debug\openfile.pdb
+C:\Users\pulis\source\repos\openfile\obj\Debug\openfile.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\openfile\obj\Debug\openfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\openfile\obj\Debug\openfile.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\openfile\obj\Debug\openfile.exe
+C:\Users\pulis\source\repos\openfile\obj\Debug\openfile.pdb

@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\storehardisk\bin\Debug\storehardisk.exe.config
+C:\Users\pulis\source\repos\storehardisk\bin\Debug\storehardisk.exe
+C:\Users\pulis\source\repos\storehardisk\bin\Debug\storehardisk.pdb
+C:\Users\pulis\source\repos\storehardisk\obj\Debug\storehardisk.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\storehardisk\obj\Debug\storehardisk.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\storehardisk\obj\Debug\storehardisk.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\storehardisk\obj\Debug\storehardisk.exe
+C:\Users\pulis\source\repos\storehardisk\obj\Debug\storehardisk.pdb

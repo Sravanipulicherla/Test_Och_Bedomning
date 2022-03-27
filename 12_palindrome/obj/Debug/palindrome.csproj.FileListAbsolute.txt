@@ -1,0 +1,16 @@
+C:\Users\pulis\source\repos\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\pulis\source\repos\palindrome\bin\Debug\palindrome.exe
+C:\Users\pulis\source\repos\palindrome\bin\Debug\palindrome.pdb
+C:\Users\pulis\source\repos\palindrome\obj\Debug\palindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\palindrome\obj\Debug\palindrome.exe
+C:\Users\pulis\source\repos\palindrome\obj\Debug\palindrome.pdb
+C:\Users\pulis\source\repos\palindrome\obj\Debug\palindrome.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\12_palindrome\bin\Debug\12_palindrome.exe.config
+C:\Users\pulis\source\repos\12_palindrome\bin\Debug\12_palindrome.exe
+C:\Users\pulis\source\repos\12_palindrome\bin\Debug\12_palindrome.pdb
+C:\Users\pulis\source\repos\12_palindrome\obj\Debug\palindrome.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\12_palindrome\obj\Debug\palindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\12_palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\12_palindrome\obj\Debug\12_palindrome.exe
+C:\Users\pulis\source\repos\12_palindrome\obj\Debug\12_palindrome.pdb

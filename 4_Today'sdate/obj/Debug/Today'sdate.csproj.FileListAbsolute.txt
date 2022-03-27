@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\Today'sdate\bin\Debug\Today'sdate.exe.config
+C:\Users\pulis\source\repos\Today'sdate\bin\Debug\Today'sdate.exe
+C:\Users\pulis\source\repos\Today'sdate\bin\Debug\Today'sdate.pdb
+C:\Users\pulis\source\repos\Today'sdate\obj\Debug\Today'sdate.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\Today'sdate\obj\Debug\Today'sdate.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\Today'sdate\obj\Debug\Today'sdate.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\Today'sdate\obj\Debug\Today'sdate.exe
+C:\Users\pulis\source\repos\Today'sdate\obj\Debug\Today'sdate.pdb

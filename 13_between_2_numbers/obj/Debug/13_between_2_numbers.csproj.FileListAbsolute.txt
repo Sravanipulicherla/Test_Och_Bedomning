@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\13_between_2_numbers\bin\Debug\13_between_2_numbers.exe.config
+C:\Users\pulis\source\repos\13_between_2_numbers\bin\Debug\13_between_2_numbers.exe
+C:\Users\pulis\source\repos\13_between_2_numbers\bin\Debug\13_between_2_numbers.pdb
+C:\Users\pulis\source\repos\13_between_2_numbers\obj\Debug\13_between_2_numbers.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\13_between_2_numbers\obj\Debug\13_between_2_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\13_between_2_numbers\obj\Debug\13_between_2_numbers.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\13_between_2_numbers\obj\Debug\13_between_2_numbers.exe
+C:\Users\pulis\source\repos\13_between_2_numbers\obj\Debug\13_between_2_numbers.pdb

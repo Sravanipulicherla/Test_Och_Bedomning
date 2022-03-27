@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\16_class\bin\Debug\16_class.exe.config
+C:\Users\pulis\source\repos\16_class\bin\Debug\16_class.exe
+C:\Users\pulis\source\repos\16_class\bin\Debug\16_class.pdb
+C:\Users\pulis\source\repos\16_class\obj\Debug\16_class.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\16_class\obj\Debug\16_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\16_class\obj\Debug\16_class.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\16_class\obj\Debug\16_class.exe
+C:\Users\pulis\source\repos\16_class\obj\Debug\16_class.pdb

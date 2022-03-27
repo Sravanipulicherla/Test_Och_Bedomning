@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\15_Sum_of_numbers\bin\Debug\15_Sum_of_numbers.exe.config
+C:\Users\pulis\source\repos\15_Sum_of_numbers\bin\Debug\15_Sum_of_numbers.exe
+C:\Users\pulis\source\repos\15_Sum_of_numbers\bin\Debug\15_Sum_of_numbers.pdb
+C:\Users\pulis\source\repos\15_Sum_of_numbers\obj\Debug\15_Sum_of_numbers.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\15_Sum_of_numbers\obj\Debug\15_Sum_of_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\15_Sum_of_numbers\obj\Debug\15_Sum_of_numbers.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\15_Sum_of_numbers\obj\Debug\15_Sum_of_numbers.exe
+C:\Users\pulis\source\repos\15_Sum_of_numbers\obj\Debug\15_Sum_of_numbers.pdb

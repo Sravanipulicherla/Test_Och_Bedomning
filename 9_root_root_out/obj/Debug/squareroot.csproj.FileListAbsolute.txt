@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\squareroot\bin\Debug\squareroot.exe.config
+C:\Users\pulis\source\repos\squareroot\bin\Debug\squareroot.exe
+C:\Users\pulis\source\repos\squareroot\bin\Debug\squareroot.pdb
+C:\Users\pulis\source\repos\squareroot\obj\Debug\squareroot.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\squareroot\obj\Debug\squareroot.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\squareroot\obj\Debug\squareroot.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\squareroot\obj\Debug\squareroot.exe
+C:\Users\pulis\source\repos\squareroot\obj\Debug\squareroot.pdb

@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\Randomnumbers\bin\Debug\Randomnumbers.exe.config
+C:\Users\pulis\source\repos\Randomnumbers\bin\Debug\Randomnumbers.exe
+C:\Users\pulis\source\repos\Randomnumbers\bin\Debug\Randomnumbers.pdb
+C:\Users\pulis\source\repos\Randomnumbers\obj\Debug\Randomnumbers.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\Randomnumbers\obj\Debug\Randomnumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\Randomnumbers\obj\Debug\Randomnumbers.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\Randomnumbers\obj\Debug\Randomnumbers.exe
+C:\Users\pulis\source\repos\Randomnumbers\obj\Debug\Randomnumbers.pdb

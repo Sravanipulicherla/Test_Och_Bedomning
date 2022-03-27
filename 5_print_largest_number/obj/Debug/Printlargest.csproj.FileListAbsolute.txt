@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\Printlargest\bin\Debug\Printlargest.exe.config
+C:\Users\pulis\source\repos\Printlargest\bin\Debug\Printlargest.exe
+C:\Users\pulis\source\repos\Printlargest\bin\Debug\Printlargest.pdb
+C:\Users\pulis\source\repos\Printlargest\obj\Debug\Printlargest.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\Printlargest\obj\Debug\Printlargest.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\Printlargest\obj\Debug\Printlargest.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\Printlargest\obj\Debug\Printlargest.exe
+C:\Users\pulis\source\repos\Printlargest\obj\Debug\Printlargest.pdb

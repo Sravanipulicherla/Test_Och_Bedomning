@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\3_colour_of_text\bin\Debug\3_colour_of_text.exe.config
+C:\Users\pulis\source\repos\3_colour_of_text\bin\Debug\3_colour_of_text.exe
+C:\Users\pulis\source\repos\3_colour_of_text\bin\Debug\3_colour_of_text.pdb
+C:\Users\pulis\source\repos\3_colour_of_text\obj\Debug\3_colour_of_text.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\3_colour_of_text\obj\Debug\3_colour_of_text.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\3_colour_of_text\obj\Debug\3_colour_of_text.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\3_colour_of_text\obj\Debug\3_colour_of_text.exe
+C:\Users\pulis\source\repos\3_colour_of_text\obj\Debug\3_colour_of_text.pdb

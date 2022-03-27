@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\7_text_to_file\bin\Debug\storehardisk.exe.config
+C:\Users\pulis\source\repos\7_text_to_file\bin\Debug\storehardisk.exe
+C:\Users\pulis\source\repos\7_text_to_file\bin\Debug\storehardisk.pdb
+C:\Users\pulis\source\repos\7_text_to_file\obj\Debug\7_text_to_file.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\7_text_to_file\obj\Debug\7_text_to_file.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\7_text_to_file\obj\Debug\7_text_to_file.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\7_text_to_file\obj\Debug\storehardisk.exe
+C:\Users\pulis\source\repos\7_text_to_file\obj\Debug\storehardisk.pdb

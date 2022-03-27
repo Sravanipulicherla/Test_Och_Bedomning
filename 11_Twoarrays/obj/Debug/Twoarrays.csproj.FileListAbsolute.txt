@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\Twoarrays\bin\Debug\Twoarrays.exe.config
+C:\Users\pulis\source\repos\Twoarrays\bin\Debug\Twoarrays.exe
+C:\Users\pulis\source\repos\Twoarrays\bin\Debug\Twoarrays.pdb
+C:\Users\pulis\source\repos\Twoarrays\obj\Debug\Twoarrays.csproj.AssemblyReference.cache
+C:\Users\pulis\source\repos\Twoarrays\obj\Debug\Twoarrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\Twoarrays\obj\Debug\Twoarrays.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\Twoarrays\obj\Debug\Twoarrays.exe
+C:\Users\pulis\source\repos\Twoarrays\obj\Debug\Twoarrays.pdb

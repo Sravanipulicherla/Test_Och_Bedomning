@@ -1,0 +1,8 @@
+C:\Users\pulis\source\repos\oddeven\bin\Debug\oddeven.exe.config
+C:\Users\pulis\source\repos\oddeven\bin\Debug\oddeven.exe
+C:\Users\pulis\source\repos\oddeven\bin\Debug\oddeven.pdb
+C:\Users\pulis\source\repos\oddeven\obj\Debug\oddeven.csproj.SuggestedBindingRedirects.cache
+C:\Users\pulis\source\repos\oddeven\obj\Debug\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\pulis\source\repos\oddeven\obj\Debug\oddeven.exe
+C:\Users\pulis\source\repos\oddeven\obj\Debug\oddeven.pdb
+C:\Users\pulis\source\repos\oddeven\obj\Debug\oddeven.csproj.AssemblyReference.cache
